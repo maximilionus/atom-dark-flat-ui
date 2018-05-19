@@ -1,6 +1,7 @@
 # Dark Flat UI
 
-Dark and flat UI theme for Atom.
+Dark and flat UI theme for Atom.  
+`Modified and fixed by`[`maximilionus`](https://github.com/maximilionus)
 
 [![dark-flat-ui](https://github.com/olmokramer/atom-dark-flat-ui/raw/master/screenshot.png)](https://github.com/olmokramer/atom-dark-flat-ui/raw/master/screenshot.png)
 

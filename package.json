@@ -1,17 +1,18 @@
 {
-  "name": "dark-flat-ui",
+  "name": "dark-flat-ui-mxml",
   "theme": "ui",
   "main": "lib/dark-flat-ui",
-  "version": "1.2.4",
-  "description": "A dark flat ui theme",
+  "version": "1.2.5",
+  "description": "A dark flat ui theme, fixed by maximilionus.",
   "keywords": [
     "dark",
     "flat",
     "ui",
     "grey",
-    "gray"
+    "gray",
+    "mxml"
   ],
-  "repository": "https://github.com/olmokramer/atom-dark-flat-ui",
+  "repository": "https://github.com/maximilionus/atom-dark-flat-ui-mxml",
   "license": "MIT",
   "engines": {
     "atom": ">0.140.0"
